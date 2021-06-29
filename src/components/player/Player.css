@@ -1,0 +1,9 @@
+/* .player {
+	height: 100vh;
+	overflow: hidden;
+	position: relative;
+} */
+
+.player_body {
+	display: flex;
+}
